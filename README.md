@@ -1,14 +1,17 @@
 # trabalho-grafos
-Resoluções de problemas relacionados a grafos
+Resoluções de problemas relacionados a grafos.  
+Este repositório contem soluções de alguns problemas apresentados em desafios da plataforma beecrowd.com.br (antigo URI online-judge).  
+A maioria das soluções estão em C++ e algumas em Python.  
 
-Este repositório contem soluções de alguns problemas apresentados em desafios da plataforma beecrowd.com.br (antigo URI online-judge)
+Abaixo estão os títulos e links dos enunciados do problemas resolvidos neste repositório.  
 
-A maioria das soluções estão em C++ e algumas em Python
+---
 
-Abaixo estão os títulos e links dos problemas resolvidos neste repositório
+### Problemas:
 
-##Problemas
 
+| Codigo | Nome do problema | URL |
+| --- | --- | --- |
 | URI-1209 | Festas de São Petersburgo | https://www.beecrowd.com.br/judge/pt/problems/view/1209 |
 | URI-1773 | Preso no Castelo | https://www.beecrowd.com.br/judge/pt/problems/view/1773 |
 | URI-2429 | Rodovia | https://www.beecrowd.com.br/judge/pt/problems/view/2429 |
