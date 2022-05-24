@@ -12,6 +12,7 @@ Abaixo estão os títulos e links dos enunciados do problemas resolvidos neste r
 
 | Codigo | Nome do problema | URL |
 | --- | --- | --- |
+| URI-1081 | DFSr - Hierarquia de Profundidade | https://www.beecrowd.com.br/judge/pt/problems/view/1081 |
 | URI-1209 | Festas de São Petersburgo | https://www.beecrowd.com.br/judge/pt/problems/view/1209 |
 | URI-1773 | Preso no Castelo | https://www.beecrowd.com.br/judge/pt/problems/view/1773 |
 | URI-2429 | Rodovia | https://www.beecrowd.com.br/judge/pt/problems/view/2429 |
