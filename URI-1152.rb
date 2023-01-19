@@ -1,5 +1,6 @@
 # 1152 - Dark Roads
 # Challenge Link: https://www.beecrowd.com.br/judge/en/problems/view/1152
+# Score: Accepted
 # Alfredo Diani
 
 def maximum_daily_amount(n, m, edges)
